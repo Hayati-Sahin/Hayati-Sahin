@@ -1,10 +1,13 @@
 ## Hi there 👋
 
+I'm Hayati Sahin :)
+
+## Connect with Me
+[![LinkedIn]((https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](www.linkedin.com/in/hayati-sahin-165490318)
+[![Youtube]((https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white))](https://www.youtube.com/@HayatiByte)
+
 <!--
 **Hayati-Sahin/Hayati-Sahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
